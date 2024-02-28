@@ -37,7 +37,7 @@ open the page from "http://localhost:3000/" , the page will show black page can 
 
 github :  https://github.com/omeraus6/TextEditor
 
-Deploy Render page :
+Deploy Render page : https://texteditor-667n.onrender.com/
 
 
 
